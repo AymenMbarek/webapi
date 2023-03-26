@@ -1,0 +1,58 @@
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.csproj.AssemblyReference.cache
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.AssemblyInfoInputs.cache
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.AssemblyInfo.cs
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.csproj.CoreCompileInputs.cache
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\appsettings.json
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\webapi test.exe
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\webapi test.deps.json
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\webapi test.runtimeconfig.json
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\webapi test.runtimeconfig.dev.json
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\webapi test.dll
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\ref\webapi test.dll
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\webapi test.pdb
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oussama2\source\repos\webapi test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\staticwebassets\webapi test.StaticWebAssets.Manifest.cache
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\staticwebassets\webapi test.StaticWebAssets.xml
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\scopedcss\bundle\webapi test.styles.css
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.RazorTargetAssemblyInfo.cache
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.csproj.CopyComplete
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.dll
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\ref\webapi test.dll
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.pdb
+C:\Users\oussama2\source\repos\webapi test\obj\Debug\net5.0\webapi test.genruntimeconfig.cache
+G:\webapi test\bin\Debug\net5.0\appsettings.Development.json
+G:\webapi test\bin\Debug\net5.0\appsettings.json
+G:\webapi test\bin\Debug\net5.0\webapi test.exe
+G:\webapi test\bin\Debug\net5.0\webapi test.deps.json
+G:\webapi test\bin\Debug\net5.0\webapi test.runtimeconfig.json
+G:\webapi test\bin\Debug\net5.0\webapi test.runtimeconfig.dev.json
+G:\webapi test\bin\Debug\net5.0\webapi test.dll
+G:\webapi test\bin\Debug\net5.0\ref\webapi test.dll
+G:\webapi test\bin\Debug\net5.0\webapi test.pdb
+G:\webapi test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\webapi test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\webapi test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\webapi test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\webapi test\obj\Debug\net5.0\webapi test.csproj.AssemblyReference.cache
+G:\webapi test\obj\Debug\net5.0\webapi test.GeneratedMSBuildEditorConfig.editorconfig
+G:\webapi test\obj\Debug\net5.0\webapi test.AssemblyInfoInputs.cache
+G:\webapi test\obj\Debug\net5.0\webapi test.AssemblyInfo.cs
+G:\webapi test\obj\Debug\net5.0\webapi test.csproj.CoreCompileInputs.cache
+G:\webapi test\obj\Debug\net5.0\webapi test.MvcApplicationPartsAssemblyInfo.cs
+G:\webapi test\obj\Debug\net5.0\webapi test.MvcApplicationPartsAssemblyInfo.cache
+G:\webapi test\obj\Debug\net5.0\staticwebassets\webapi test.StaticWebAssets.Manifest.cache
+G:\webapi test\obj\Debug\net5.0\staticwebassets\webapi test.StaticWebAssets.xml
+G:\webapi test\obj\Debug\net5.0\scopedcss\bundle\webapi test.styles.css
+G:\webapi test\obj\Debug\net5.0\webapi test.RazorTargetAssemblyInfo.cache
+G:\webapi test\obj\Debug\net5.0\webapi test.csproj.CopyComplete
+G:\webapi test\obj\Debug\net5.0\webapi test.dll
+G:\webapi test\obj\Debug\net5.0\ref\webapi test.dll
+G:\webapi test\obj\Debug\net5.0\webapi test.pdb
+G:\webapi test\obj\Debug\net5.0\webapi test.genruntimeconfig.cache
